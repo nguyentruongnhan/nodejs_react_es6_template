@@ -4,7 +4,6 @@ Universal Javascript teamplate application with React Express ES6 (Enhanced vers
 ## Setup
 
 ```bash
-git clone https://github.com/nguyentruongnhan/nodejs_react_es6_template.git
 cd nodejs_react_es6_template/server
 npm start
 ```
