@@ -4,6 +4,10 @@ Universal Javascript teamplate application with React Express ES6 (Enhanced vers
 ## Setup
 
 ```bash
+cd nodejs_react_es6_template/client
+npm install
+npm start
 cd nodejs_react_es6_template/server
+npm install
 npm start
 ```
